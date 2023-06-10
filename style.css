@@ -1,0 +1,93 @@
+*{
+	background-color: lightgray;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+
+div{
+	text-align: center;
+	margin: 10px
+}
+
+h1 {
+	font-family: "Arial";
+	text-align: center;
+	color: dimgray;
+}
+
+h2 {
+	font-family: "Arial";
+	font-size: 18px;
+	text-align: center;
+	color: dimgray;
+}
+
+h3 {
+	font-family: "Arial";
+	font-size: 16px;
+	text-align: center;
+	color: dimgray;
+}
+h4{
+	font-family: "Arial";
+	font-size: 16px;
+	text-align: left;
+	color: dimgray;
+}
+
+
+h5{
+
+	color: dimgray;
+	font-size:35px;
+	text-align: center;
+}
+
+
+p {
+	font-family: "Courier New";
+	color: dimgray;
+	line-height: 1.1;
+	font-weight: 600;
+	
+}
+
+dl{
+	font-family: "Arial";
+	font-size: 16px;
+	text-align: center;
+	color: dimgray;
+}
+
+button{
+	font-size: 18px;
+	color: white;
+	background-color: dimgray;
+	width:150px;
+	height:30px;
+
+}
+
+input {
+	width: 250px;
+	height: 20px;
+	color: dimgray
+}
+
+select{
+	width: 250px;
+	height: 30px;
+	color: dimgray
+}
+
+textarea {
+	width:500px;
+	height:200px;
+	color: dimgray;
+
+}
+
+
+	
+
+
